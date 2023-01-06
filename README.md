@@ -3,7 +3,7 @@ Clean Cache/Buffer RAM
 Install
 
 Step 1
-'''
+
 wget https://raw.githubusercontent.com/sreyaeve/clean/main/clearcache.sh && chmod +x clearcache.sh
 
 Step 2
